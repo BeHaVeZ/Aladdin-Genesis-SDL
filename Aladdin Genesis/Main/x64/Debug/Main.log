@@ -1,0 +1,302 @@
+﻿  Apple.cpp
+  ApplePickUp.cpp
+  AppleSparkles.cpp
+  AppleSplash.cpp
+  Camel.cpp
+  Camera.cpp
+  CasketEnemy.cpp
+  Enemy.cpp
+  EnemyDeathExplosion.cpp
+  FallingPlatform.cpp
+  FireParticle.cpp
+  Game.cpp
+  Guard.cpp
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Main\Guard.cpp(151): warning C4172: returning address of local variable or temporary
+  HealthPickUp.cpp
+  HealthPickUpParticle.cpp
+  HealthUI.cpp
+  HudManager.cpp
+  Knife.cpp
+  LavaPool.cpp
+  Level.cpp
+  main.cpp
+  Particle.cpp
+  ParticleManager.cpp
+  pch.cpp
+  PickUp.cpp
+  Platform.cpp
+  Player.cpp
+  Pot.cpp
+  PotExplosion.cpp
+  PotThrower.cpp
+  Projectile.cpp
+  RangedEnemy.cpp
+  Rope.cpp
+  SoundManager.cpp
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\SoundEffect.h(3,16): warning C4099: 'Mix_Chunk': type name first seen using 'struct' now seen using 'class'
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Libraries\SDLMixer\SDL2_mixer-2.6.3\include\SDL_mixer.h(228,16): message : see declaration of 'Mix_Chunk'
+  Spit.cpp
+  TextureManager.cpp
+  UIBase.cpp
+  Main.vcxproj -> F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\x64\Debug\Main.exe
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Libraries\SDLMain\SDL2-2.26.3\lib\x64\SDL2.dll
+  1 File(s) copied
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Libraries\SDLImage\SDL2_image-2.6.3\lib\x64\SDL2_image.dll
+  1 File(s) copied
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Libraries\SDLMixer\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.dll
+  1 File(s) copied
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Libraries\SDLTtf\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.dll
+  1 File(s) copied
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\ApplePickUpsPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\CasketEnemies.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\FallingPlatformsPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\GuardPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\HealthPickUpPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\LavaPoolPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\PlatformPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\PotThrowersPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\RangedEnemiesPositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\RopePositions.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\font\aladdin.ttf
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background - Copy.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background_01 (2).jpg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background_01.jpg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background_02.jpg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background_03.jpg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background_04.jpg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\background_sharp.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\bgp_1.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\bgp_2.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\bgp_3.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\block.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\forground_01.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\forground_02.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\forground_03.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\Genesis 32X SCD - Aladdin - 01 Agrabah Market.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\level.svg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\pole.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\sky_1.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\sky_2.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\sky_3.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\sky_4.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\psd\background.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\map\psd\collisionmeshlevel.svg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Aladdin-Game over.mp3
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\AladdinOst.mp3
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Boss Theme-Aladdin.mp3
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Stage_Theme.mp3
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\defaults\level.mid
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\defaults\level_complete.mid
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\defaults\princeali.mid
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Aaah.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Abu Uh Oh.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Abu Waving.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Aladdin - One Jump Ahead.mp3
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Aladdin Hurt.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Aladdin Push.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Aladdin-Game_over.mp3
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Apple Collect.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Apple Slice (Prototype).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Apple Slice.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Apple Splat.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Balloon Pop.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Body Crunch.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Bones Tinkle.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Boxing Bell (1x).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Boxing Bell.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Camel Spit.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Canopy Bounce.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Cash Register (DAC only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Cash Register (FM only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Cash Register.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Clay Pot.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Cloud Poof.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Coming Out.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Continue Point.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Earthquake.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Eeeh.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Extra Health.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Fire from Coal.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Flamingo Hey 2.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Flamingo Hey!.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Flute Pickup.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Gazeem Hit 1.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Gazeem Hit 2.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Gem Collect.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Genie Fumes.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Geyser.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Guard Beckon (Prototype).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Guard Beckon.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Guard Hit 1.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Guard Hit 2.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Guard Pants.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Head Bop.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\High Sword.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Honk.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Honkey Sound.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Iago Squawk.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Iiee.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Jafar Laugh.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Jafar Snake.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Jafar Tractor.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Landing Oof.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Low Sword.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Made You Look (Prototype).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Menu Change (Prototype).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Menu Change.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Menu Select.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Object Throw.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Oooh.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Outta Apples.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Peddler Shop (DAC only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Peddler Shop (FM only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Peddler Shop.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Pole Slide.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Pom Poms (Prototype).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\readme.txt
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Rock Bounce (DAC only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Rock Bounce (FM only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Rock Bounce.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Rope Appear.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Rope Launch.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Scarab Pickup.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Scarab Wow.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Silent Lamb.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Skeleton (DAC Only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Skeleton (PSG Only).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Skeleton.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Splash.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Spring Doing 1.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Spring Doing 2.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Starting Gun.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Stone Rumble.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Stones Crumble.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Sword Ching.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Sword Spinning.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Tip Toe.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Wall Hit 1 (Prototype).wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Wall Hit 2.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Wall Spikes.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Win a Bonus.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Wow!.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sound\Effects\Yeah.wav
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\AbuDeathSprite.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\aladdin ALL.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Apple.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_1.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_2.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_3.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_4.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_5.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_6.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_7.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_8.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgp_9.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\bgparallax.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Casket.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\CasketEnemy.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\DeathSprite.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\GameOverScreen.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\GameOverScreen.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - 01 Agrabah Market.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Abu.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Agrabah Civilian Enemies.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Aladdin (1).png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Aladdin.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Aladdin-Backup old.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Camel.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Enemy Death Effect.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Items.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Jafar.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Genesis 32X SCD - Aladdin - Palace Guards.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Guard.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\guide layout.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\HealthPickUp.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\HealthPickUp.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\HealthUI.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Knife.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\PickUp_Apple.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Pot.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\PotThrower.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\RangedEnemy.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\SNES - Aladdin - Items & HUD.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\Spit.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\icon\aladdin.jpg
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\applePickUpEffect.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\applePickUpEffect.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\appleSplash.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\appleSplash.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\enemyDeathExplosion.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\enemyDeathExplosion.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\Fire.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\Fire.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\HealthPickUpEffect.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\HealthPickUpEffect.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\potExplosion.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\particles\potExplosion.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\aladdin_sprite.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\aladdinspritesheet.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Apple.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\DeathAnimation.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\enemy_sprite.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Genesis 32X SCD - Aladdin - Agrabah Civilian Enemies.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Genesis 32X SCD - Aladdin - Aladdin backup old.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Genesis 32X SCD - Aladdin - Aladdin.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Genesis 32X SCD - Aladdin - Aladdin-old.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Genesis 32X SCD - Aladdin - Palace Guards.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Guard.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\gude-2023-04-03.log
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\gude-2023-04-04.log
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\gude-2023-04-12.log
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\gude-2023-04-14.log
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\HealthUI.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\PickUp_Apple.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Pot.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\PotThrower.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Aladdin\AladdinIdleSheet.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Aladdin\Genesis 32X SCD - Aladdin - Aladdin.psd
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\sprites\psd\Aladdin\gude-2023-03-26.log
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Enemies\Casket.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Enemies\Guard.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Enemies\PotThrower.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Enemies\RangedEnemy.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\background.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_1.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_2.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_3.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_4.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_5.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_6.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_7.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_8.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\bgp_9.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\block.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\forground_01.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\forground_02.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\forground_03.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\Genesis 32X SCD - Aladdin - Camel.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\sky_1.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\sky_2.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\sky_3.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Level\sky_4.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Particles\applePickUpEffect.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Particles\appleSplash.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Particles\enemyDeathExplosion.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Particles\Fire.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Particles\HealthPickUpEffect.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Particles\potExplosion.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\PickUps\HealthPickUp.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\PickUps\PickUp_Apple.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Player\Genesis 32X SCD - Aladdin - Aladdin.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Projectiles\Apple.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Projectiles\Knife.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Projectiles\Pot.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\Projectiles\Spit.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\UI\DeathSprite.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\UI\GameOverScreen.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\UI\GameOverScreenNo.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\UI\GameOverScreenYes.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\UI\HealthUI.png
+  F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Resources\Textures\UI\LevelComplete.png
+  252 File(s) copied

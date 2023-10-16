@@ -1,0 +1,118 @@
+﻿  BaseGame.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\BaseGame.h(19,28): warning C4100: 'elapsedSec': unreferenced formal parameter
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\BaseGame.h(29,60): warning C4100: 'e': unreferenced formal parameter
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\BaseGame.h(33,58): warning C4100: 'e': unreferenced formal parameter
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\BaseGame.h(37,67): warning C4100: 'e': unreferenced formal parameter
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\BaseGame.h(41,65): warning C4100: 'e': unreferenced formal parameter
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\BaseGame.h(45,63): warning C4100: 'e': unreferenced formal parameter
+  Matrix2x3.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  SoundEffect.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\SoundEffect.h(3,16): warning C4099: 'Mix_Chunk': type name first seen using 'struct' now seen using 'class'
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Libraries\SDLMixer\SDL2_mixer-2.6.3\include\SDL_mixer.h(228,16): message : see declaration of 'Mix_Chunk'
+  SoundStream.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  structs.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  SVGParser.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  Texture.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  utils.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  Vector2f.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h(7723,48): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\xmemory(174,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(361,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+D:\Program Files\VS IDE\VC\Tools\MSVC\14.37.32822\include\atomic(377,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  Generating Code...
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(37): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(35): message : index 'idx' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(37): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(93): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(84): message : index 'height' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(93): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(119): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(111): message : index 'height' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(119): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(147): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(145): message : index 'angle' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(147): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(142): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(137): message : index 'lineWidth' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(142): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(206): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(204): message : index 'angle' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(206): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(175): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(173): message : index 'angle' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(175): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(232): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(230): message : index 'angle' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(232): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(256): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(254): message : index 'idx' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(256): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(273): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(271): message : index 'idx' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(273): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(402): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(400): message : index 'i' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(402): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(393): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(391): message : index 'i' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(393): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(466): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(464): message : index 'i' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\utils.cpp(466): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\SVGParser.cpp(56): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\SVGParser.cpp(53): message : index 'i' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\SVGParser.cpp(56): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\Matrix2x3.cpp(52): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\Matrix2x3.cpp(50): message : index 'idx' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\Matrix2x3.cpp(52): message : feeds call on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\Matrix2x3.cpp(67): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\Matrix2x3.cpp(65): message : index 'idx' range checked by comparison on this line
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\Matrix2x3.cpp(67): message : feeds call on this line
+  Engine.vcxproj -> F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\x64\Debug\Engine.lib

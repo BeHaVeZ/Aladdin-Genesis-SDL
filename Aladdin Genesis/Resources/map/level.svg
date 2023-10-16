@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg59"
+   width="3324"
+   height="480"
+   viewBox="0 0 3324 480"
+   sodipodi:docname="background.png"
+   inkscape:export-filename="level.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs63" />
+  <sodipodi:namedview
+     id="namedview61"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.29143691"
+     inkscape:cx="1523.4858"
+     inkscape:cy="696.5487"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g65" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g65">
+    <path
+       style="fill:#ffffff"
+       d="M -3.4312744,443.49221 H 807.2073 L 979.62883,397.59892 H 1049.97 v 9.436 h -17.1564 v 53.18475 h 513.8333 V 205.01864 h -433.6273 v -10.72273 h 482.523 v 9.43601 h -24.0189 v 255.62994 h 377.4401 v -54.90039 h -35.1705 v -8.57819 h 75.9169 v 8.14928 h -17.1563 v 59.61839 l 1062.8372,-5.14691 101.2226,-23.1611 h 187.0044 V 157.83862 H 3049.974 v 84.49513 h -34.3127 V 156.9808 h -491.959 v 67.33876 h 15.0118 v 12.00946 h -321.6819 v -23.59001 h -289.0849 v -90.49986 h -10.2938 v -10.72273 h 60.9051 v 12.43837 h -5.5758 v 81.06385 h 265.0659 l -2.2307,8.32524 -4.5993,1.23236 v 11.88787 h 261.6021 V 89.642043 h -42.0331 v -9.864914 h 77.2037 V 91.35768 h -7.2915 v 56.61603 H 3012.23 V 37.315109 h 39.0307 V 145.40025 h 322.1109 V -2.5734558 H 1765.8196 V 114.08987 h 88.7842 v 9.43601 l -5.231,-1.40166 V 280.50668 H 1962.26 v 13.7251 h 195.5827 v 9.436 h -19.3009 v 32.59711 h 542.9991 l 99.507,-30.45256 h 71.6278 l 2.5027,9.34005 h -64.2656 v 33.12197 H 2096.9375 V 303.66778 H 1945.5326 V 289.08487 H 1821.1489 V 124.81261 H 1725.931 V 0 h -691.4018 v 272.78631 h 26.1635 v 12.00946 h -28.308 v 22.30329 h 73.3435 v 9.00709 H 988.20702 V 0 H 0 Z"
+       id="path329" />
+  </g>
+</svg>

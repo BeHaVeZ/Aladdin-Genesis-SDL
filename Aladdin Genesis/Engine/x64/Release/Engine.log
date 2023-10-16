@@ -1,0 +1,12 @@
+﻿  BaseGame.cpp
+  Matrix2x3.cpp
+  SoundEffect.cpp
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Engine\SoundEffect.h(3,16): warning C4099: 'Mix_Chunk': type name first seen using 'struct' now seen using 'class'
+F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\Libraries\SDLMixer\SDL2_mixer-2.6.3\include\SDL_mixer.h(228,16): message : see declaration of 'Mix_Chunk'
+  SoundStream.cpp
+  structs.cpp
+  SVGParser.cpp
+  Texture.cpp
+  utils.cpp
+  Vector2f.cpp
+  Engine.vcxproj -> F:\GITHUB PORTFOLIO\Terentyev_Alexander_Aladdin_Genesis\Terentyev_Alexander_Aladdin_Genesis\x64\Release\Engine.lib

@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Projectiles src">
+      <UniqueIdentifier>{bbfdcf16-c086-4e6b-83f9-b2a88c616f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Level">
+      <UniqueIdentifier>{523c9a56-7d68-4624-9436-931a4af4b4f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Level.h">
+      <UniqueIdentifier>{c55604a3-6b3f-42bc-a31d-802bf0fa6c45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Level.h\PickUps.h">
+      <UniqueIdentifier>{1d96d957-7a4f-4628-b962-d8096ee9185b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Enemies.h">
+      <UniqueIdentifier>{3b4346d8-1937-4ed3-8ef9-39326d49ecf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Projectiles.h">
+      <UniqueIdentifier>{f4f5cd00-8cef-4408-851c-9ab660d11597}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Level\PickUps src">
+      <UniqueIdentifier>{14be237a-8c1b-40c1-b9d6-aec7c241ba02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{aaa6b44c-97ba-45a6-b263-4e58534c67af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{dce577ea-fdce-4aec-ae45-8fb09b9bba41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Particles">
+      <UniqueIdentifier>{230f10be-65eb-4d44-bc2d-62fab8670a6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{13a433de-5f36-4227-afe4-f76bc6f04bb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Enemies">
+      <UniqueIdentifier>{ab092bc9-c9e0-4d53-9574-85d6253b2a84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game.h">
+      <UniqueIdentifier>{d3909f9b-0008-41c9-bfa8-796e8ce008d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers.h">
+      <UniqueIdentifier>{c366fe67-7536-4526-a953-ed2ce2db03ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI.h">
+      <UniqueIdentifier>{32974c15-2a46-42ad-b609-4e4a2f66a7be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Particles.h">
+      <UniqueIdentifier>{6b28d761-d6b5-431f-a9b8-35e1307a67a7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Apple.cpp">
+      <Filter>Source Files\Projectiles src</Filter>
+    </ClCompile>
+    <ClCompile Include="Knife.cpp">
+      <Filter>Source Files\Projectiles src</Filter>
+    </ClCompile>
+    <ClCompile Include="Spit.cpp">
+      <Filter>Source Files\Projectiles src</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Source Files\Projectiles src</Filter>
+    </ClCompile>
+    <ClCompile Include="RangedEnemy.cpp">
+      <Filter>Source Files\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Pot.cpp">
+      <Filter>Source Files\Projectiles src</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Rope.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Camel.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="LavaPool.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="FallingPlatform.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="PotThrower.cpp">
+      <Filter>Source Files\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="PickUp.cpp">
+      <Filter>Source Files\Level\PickUps src</Filter>
+    </ClCompile>
+    <ClCompile Include="ApplePickUp.cpp">
+      <Filter>Source Files\Level\PickUps src</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="AppleSparkles.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="AppleSplash.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="PotExplosion.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="FireParticle.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyDeathExplosion.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="HudManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthUI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIBase.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Guard.cpp">
+      <Filter>Source Files\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CasketEnemy.cpp">
+      <Filter>Source Files\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthPickUp.cpp">
+      <Filter>Source Files\Level\PickUps src</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthPickUpParticle.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Apple.h">
+      <Filter>Header Files\Projectiles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Spit.h">
+      <Filter>Header Files\Projectiles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Knife.h">
+      <Filter>Header Files\Projectiles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Header Files\Projectiles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="RangedEnemy.h">
+      <Filter>Header Files\Enemies.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files\Enemies.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Rope.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Pot.h">
+      <Filter>Header Files\Projectiles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="LavaPool.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="FallingPlatform.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="PotThrower.h">
+      <Filter>Header Files\Enemies.h</Filter>
+    </ClInclude>
+    <ClInclude Include="PickUp.h">
+      <Filter>Header Files\Level.h\PickUps.h</Filter>
+    </ClInclude>
+    <ClInclude Include="ApplePickUp.h">
+      <Filter>Header Files\Level.h\PickUps.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Header Files\Managers.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Camel.h">
+      <Filter>Header Files\Level.h</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleManager.h">
+      <Filter>Header Files\Managers.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Game.h</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files\Game.h</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PotExplosion.h">
+      <Filter>Header Files\Particles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="AppleSparkles.h">
+      <Filter>Header Files\Particles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="AppleSplash.h">
+      <Filter>Header Files\Particles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>Header Files\Particles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="FireParticle.h">
+      <Filter>Header Files\Particles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyDeathExplosion.h">
+      <Filter>Header Files\Particles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="HudManager.h">
+      <Filter>Header Files\Managers.h</Filter>
+    </ClInclude>
+    <ClInclude Include="UIBase.h">
+      <Filter>Header Files\UI.h</Filter>
+    </ClInclude>
+    <ClInclude Include="HealthUI.h">
+      <Filter>Header Files\UI.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Guard.h">
+      <Filter>Header Files\Enemies.h</Filter>
+    </ClInclude>
+    <ClInclude Include="CasketEnemy.h">
+      <Filter>Header Files\Enemies.h</Filter>
+    </ClInclude>
+    <ClInclude Include="HealthPickUp.h">
+      <Filter>Header Files\Level.h\PickUps.h</Filter>
+    </ClInclude>
+    <ClInclude Include="HealthPickUpParticle.h">
+      <Filter>Header Files\Particles.h</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header Files\Managers.h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Main.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
