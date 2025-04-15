@@ -3,6 +3,8 @@
 A lightweight 2D recreation of the **Aladdin Genesis** game using **C++** and **SDL2**.  
 Built as a hands-on way to learn SDL2 fundamentals and basic engine architecture for 2D game development.
 
+![aladdin_camel](https://github.com/user-attachments/assets/d87b6777-ead5-4616-aa59-280742a1153f)
+
 ---
 
 ## Project Overview
