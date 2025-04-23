@@ -11,6 +11,7 @@ Built as a hands-on way to learn SDL2 fundamentals and basic engine architecture
 ![SDLImage](https://img.shields.io/badge/SDL2_Image/2.6.3-blue)
 ![SDLTTF](https://img.shields.io/badge/SDL2_TTF/2.20.2-blue)
 ![SDLMIXER](https://img.shields.io/badge/SDL2_Mixer/2.6.3-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
 
