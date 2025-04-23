@@ -4,6 +4,13 @@ A lightweight 2D recreation of the **Aladdin Genesis** game using **C++** and **
 Built as a hands-on way to learn SDL2 fundamentals and basic engine architecture for 2D game development.
 
 ![aladdin_camel](https://github.com/user-attachments/assets/d87b6777-ead5-4616-aa59-280742a1153f)
+![Made With](https://img.shields.io/badge/Made%20With-Visual_Studio-purple)
+![Engine](https://img.shields.io/badge/Engine-Custom%20Engine-orange)
+![C++](https://img.shields.io/badge/language-C%2B%2B_17-blue?logo=c%2B%2B)
+![SDL2](https://img.shields.io/badge/framework-SDL2/2.26.3-blue)
+![SDLImage](https://img.shields.io/badge/SDL2_Image/2.6.3-blue)
+![SDLTTF](https://img.shields.io/badge/SDL2_TTF/2.20.2-blue)
+![SDLMIXER](https://img.shields.io/badge/SDL2_Mixer/2.6.3-blue)
 
 ---
 
